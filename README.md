@@ -89,15 +89,12 @@ Daha sonra
 2 sayısı 7'den ve 5'ten küçük olduğunda 5'in soluna, 1'den büyük olduğunda 1'in sağına ve 3'ten küçük olduğunda 3'ün soluna ekledik
 
 Ve son olarak
+                                
+                                    7
+                              5         8
+                           1      6          9
+                         0    3  
+                            2   4
 
-7				
-/		\			
-5				8		
-/		\				\	
-1				6				9
-/		\							
-0				3						
-/		\					
-2 ekledik			2				4
 
 www.patika.dev 

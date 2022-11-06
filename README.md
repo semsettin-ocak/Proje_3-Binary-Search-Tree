@@ -16,11 +16,12 @@ Daha sonra
 
 Daha sonra
 
-7
+1
 /	
-5		
+7		
 /			
-1 ekledik	1				
+5
+
 8 sayısı 7'den büyük olduğunda 7'nin sağına ekledik
 
 Daha sonra

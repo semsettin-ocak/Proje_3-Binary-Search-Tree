@@ -16,15 +16,11 @@ Daha sonra
 
 Daha sonra
 
+               7
+           /
+       5		
+   /
 1
-
-     /	
-
-        7		
-
-           /			
-
-              5
 
 8 sayısı 7'den büyük olduğunda 7'nin sağına ekledik
 

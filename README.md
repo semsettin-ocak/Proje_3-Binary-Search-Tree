@@ -14,13 +14,12 @@ Daha sonra
 5 ekledik	5		
 1 sayısı 5'ten ve 7'den küçük olduğunda 7 ve 5'in soluna ekledik
 
-Daha sonra
 
-               7
-           /
-       5		
-   /
-1
+                  7
+              /
+          5		
+      /
+   1
 
 8 sayısı 7'den büyük olduğunda 7'nin sağına ekledik
 
